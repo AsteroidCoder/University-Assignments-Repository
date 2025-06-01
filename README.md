@@ -11,10 +11,9 @@ Welcome to my university assignments repository. This folder contains all the pr
 This repository is organized by course. Below is a list of the courses included:
 
 * **Predictive Analysis and Machine Learning Using Python:**
-    *  This course involves completing two official assignments provided by the university to perform a series of specified tasks.
+  * This course involves completing two official assignments provided by the university to perform a series of specified tasks.
 * **Fundamentals of Data Analysis:**
-    * This course involves completing one official assignment on applying time series regression techniques to predict the future values of a continuous target variable.
-    * 
+  * This course involves completing one official assignment on applying time series regression techniques to predict the future values of a continuous target variable.
 
 ---
 
@@ -29,5 +28,3 @@ To work with a specific project, navigate to the relevant assignment folder. If 
 ### Disclaimer
 
 This repository serves as a personal archive of my completed university work. The solutions and code provided are for archival and demonstration purposes only.
-
-[EOF]
