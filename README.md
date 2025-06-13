@@ -21,7 +21,17 @@ This repository is organized by course. Below is a list of the courses included:
 
 Each top-level folder in this repository corresponds to a specific course. Inside each course folder, individual assignments are further organized into their own subdirectories.
 
-To work with a specific project, navigate to the relevant assignment folder. If the project involves code with specific dependencies (e.g., Python projects with a `requirements.txt` or a virtual environment), please refer to the `README.md` file within that specific assignment's folder for setup instructions.
+To work with a project, navigate to the relevant assignment folder. The project involves code with specific dependencies (e.g., Python projects with a `requirements.txt`). You should create a dedicated virtual environment for that project. This keeps its dependencies separate from others. To do this, navigate into the project's folder from your terminal and run the following commands:
+
+1. **Create a virtual environment:**
+  python -m venv .venv
+
+2. **Activate it:**
+  cmd
+      .\.venv\Scripts\activate
+
+3. **Install the dependencies:**
+  pip install -r requirements.txt
 
 ---
 
