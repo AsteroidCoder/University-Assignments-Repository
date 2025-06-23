@@ -6,3 +6,5 @@ __pycache__/
 *.pyc 
 .DS_Store 
 Thumbs.db
+customer_segments.csv
+26th_June.ipynb
